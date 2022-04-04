@@ -1,4 +1,3 @@
-# ECIO Website & Marketplace
 
 ## Project setup
 ```
